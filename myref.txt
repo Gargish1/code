@@ -1,0 +1,37 @@
+combine.js :- to combien any type of file 
+
+
+delete.js :- to delete the file present in a path 
+
+
+hello.js  :- it is a log file 
+
+
+order.js   order2.js:- it is used to craete a new order.
+
+
+info.js in serch folder :- it will act exactly as sales force , user will come & enter data over there
+
+
+Search.js :- it will search the files present in the folder & gives the result
+
+
+datas.js  :- it will write the content of the webste to the file
+
+
+
+find.js   :-  it will search a file , & Pass the argument from cmd to js  file
+
+
+
+info.js    :- it will accept the input from cmd & save this on file creted on local path
+
+
+
+Joincontent.js  :-  it will join the content take on cmd & gives the output
+
+
+read.js   :- it will read the content of the html file
+
+
+down.js  :- it will download the data from internet & put on our local folder 

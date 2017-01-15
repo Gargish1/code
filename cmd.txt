@@ -1,0 +1,75 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\admin>cd..\\
+
+C:\Users>cd..\\
+
+C:\>cd git
+
+C:\git>manoj.txt
+'manoj.txt' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\git>cd manoj.txt
+The system cannot find the path specified.
+
+C:\git>node array.js
+[ 'R,e,vi, ,S', 'a,t,h,i, ,S' ]
+
+C:\git>dir
+ Volume in drive C is Win7-64-E6430-Shyam
+ Volume Serial Number is 301D-30FC
+
+ Directory of C:\git
+
+01/02/2017  04:11 PM    <DIR>          .
+01/02/2017  04:11 PM    <DIR>          ..
+12/26/2016  12:31 PM    <DIR>          1
+12/24/2016  10:26 AM           696,774 1.pdf
+12/24/2016  11:25 AM           696,774 1.xml
+12/30/2016  12:09 PM    <DIR>          2
+01/02/2017  04:19 PM               409 array.js
+12/30/2016  10:26 AM               564 combi.js
+12/24/2016  10:30 AM               445 combine.js
+12/21/2016  11:16 AM               221 delete.js
+12/21/2016  12:33 PM               937 email.js
+12/22/2016  01:04 PM    <DIR>          EmailExample
+12/21/2016  01:41 PM               317 example.js
+01/02/2017  04:11 PM                 0 file.txt
+12/20/2016  01:38 PM               152 hello.js
+12/30/2016  11:49 AM                 6 helloworld.txt
+09/27/2016  03:01 PM               924 heroku.js
+12/29/2016  05:35 PM             1,122 intg.js
+12/21/2016  04:16 PM               132 m.csv
+12/21/2016  04:13 PM                54 Man.csv
+12/20/2016  04:39 PM                84 message.txt
+12/20/2016  03:10 PM                49 message1.txt
+12/20/2016  03:27 PM                48 message3.txt
+12/20/2016  03:31 PM                45 message4.txt
+12/20/2016  04:13 PM               219 message5.txt
+12/20/2016  04:15 PM               213 message6.txt
+12/20/2016  04:32 PM               220 message7.txt
+12/21/2016  11:18 AM               213 message9.txt
+12/24/2016  12:28 PM               867 myref.txt
+12/20/2016  04:49 PM               219 new.txt
+12/22/2016  01:43 PM    <DIR>          node_modules
+12/21/2016  10:45 AM               576 order.js
+12/21/2016  10:44 AM               393 order2.js
+12/20/2016  05:50 PM               132 Package.js
+09/27/2016  02:41 PM               253 package.json
+10/07/2016  06:03 PM               924 prod.js
+12/24/2016  12:26 PM    <DIR>          search
+12/21/2016  01:26 PM               155 search.js
+12/26/2016  02:50 PM               950 sms.js
+11/09/2016  08:08 PM            17,064 smtp.js
+              33 File(s)      1,421,455 bytes
+               7 Dir(s)  199,087,763,456 bytes free
+
+C:\git>dir|clip
+
+C:\git>dir| clip file.txt
+ERROR: Invalid argument/option - 'file.txt'.
+Type "CLIP /?" for usage.
+
+C:\git>

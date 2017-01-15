@@ -1,0 +1,14 @@
+var k = new Date(1994, 2-1, 20);
+var an= new Date(new Date(k).setMonth(k.getMonth()+1));
+var a= new Date(new Date(k).setMonth(k.getMonth()-1));
+var b= new Date(new Date(k).setDate(k.getDate()-1));
+var c= new Date(new Date(k).setDate(k.getDate()+1));
+var d= new Date(new Date(k).setYear(k.getYear()-1));
+var e= new Date(new Date(k).setYear(k.getYear()+1));
+console.log("DOB:");
+console.log(an);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);

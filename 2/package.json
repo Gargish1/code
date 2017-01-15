@@ -1,0 +1,22 @@
+{
+  "name": "manokj",
+  "version": "1.0.0",
+  "description": "Gtraet ed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "manoj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.17.3"
+  }
+}

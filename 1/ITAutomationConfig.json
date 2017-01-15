@@ -1,0 +1,22 @@
+{
+  "FromSourceFolderID": "0BxS3PhuWzjMOM09yT3FGYjBHYUU",
+  "WorkingFolderID": "0BxS3PhuWzjMOMDY5QWpnYWRGZ1E",
+  "emailServerAPIKey"  : "key-727eaf0c39b1ce37758244fff4ee78fa",
+  "emailServerDomain"  : "mg.finfort.ind.in",
+  "emailFrom": "customersupport@finfort.ind.in",
+  "emailNotificationCC": "ssrinatha@finfort.ind.in",
+  "emailNotificationTO": "kramdas@finfort.ind.in",
+  "papertrialHost": "logs4.papertrailapp.com",
+  "papertrialPort": "19925",
+  "papertrialHostName": "FFITAutomation",
+  "FFDBConnection"     : "mongodb://finfort:finfort@ds019746.mlab.com:19746/ffit",
+  "YearsToGenerateCSVOptions": [
+    "2014",
+    "2015",
+	"2016"
+  ],
+  
+  "sfusername"         : "ffmgmt@finfort.ind.in",
+  "sfpassword"         : "finforce!@#123y2ZtuJXnR5a0kWyXa31Phdjq",
+  "saddr" 			   : "https://ffecho.herokuapp.com"
+}
